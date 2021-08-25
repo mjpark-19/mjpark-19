@@ -1,4 +1,5 @@
 ### Hi there 👋
+---
 ### 🤔How to reach me?
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:msyj10@gmail.com)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mjpark-19" height="165">
