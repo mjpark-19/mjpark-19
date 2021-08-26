@@ -3,7 +3,7 @@
 ### 📫 How to reach me?
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:msyj10@gmail.com)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mjpark-19" height="165">
-
+---
 ### 📙 Resume
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/Mijeong-Park-6c85562509c142f9b0fa3f602262063b)
 ---
