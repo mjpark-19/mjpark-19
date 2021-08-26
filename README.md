@@ -5,7 +5,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mjpark-19" height="165">
 
 ### 📙 Resume
-[![Notion Badge](https://img.shields.io/badge/Notion-C0C0C0?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/Mijeong-Park-6c85562509c142f9b0fa3f602262063b)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/Mijeong-Park-6c85562509c142f9b0fa3f602262063b)
 ---
 <!--
 **mjpark-19/mjpark-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
